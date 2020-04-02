@@ -1,4 +1,4 @@
-#COVID-19 Coding Challenge
+# COVID-19 Coding Challenge
 
 This challenge is given to me by my friend [Skekh Ataul](https://github.com/ataul443).
 

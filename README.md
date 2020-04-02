@@ -1,4 +1,4 @@
-# COVID-19 Coding Challenge :musical_note:
+# COVID-19 Coding Challenge :shipit:
 
 
 This challenge is given to me by my friend [Skekh Ataul](https://github.com/ataul443).

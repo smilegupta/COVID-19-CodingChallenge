@@ -1,4 +1,4 @@
-# COVID-19 Coding Challenge :shipit:
+# COVID-19 Coding Challenge :full_moon_with_face:
 
 
 This challenge is given to me by my friend [Skekh Ataul](https://github.com/ataul443).

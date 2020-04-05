@@ -24,11 +24,10 @@ This challenge is given to me by my friend [Skekh Ataul](https://github.com/atau
 #### Avoid Handshakes 🤝 ❌
 #### Do Namastey 🙏 ✔️
 
-```javascript
-/**
- * 
- * Let's fight for Corona together!
- */
+```bash
+
+Let's fight for Corona together!
+ 
 function stayAtHome() {
   eat();
   sleep();

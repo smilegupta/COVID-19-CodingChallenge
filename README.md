@@ -24,7 +24,7 @@ This challenge is given to me by my friend [Skekh Ataul](https://github.com/atau
 #### Avoid Handshakes 🤝 ❌
 #### Do Namastey 🙏 ✔️
 
-```bash
+```javascript
 /**
  * 
  * Let's fight for Corona together!
